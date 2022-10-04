@@ -4,10 +4,11 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringTestingApplicationTests {
+public class DemoUtilsTest {
 
 	@Test
-	void contextLoads() {
+	public void testEqualsAndNotEquals () {
+
 	}
 
 }
